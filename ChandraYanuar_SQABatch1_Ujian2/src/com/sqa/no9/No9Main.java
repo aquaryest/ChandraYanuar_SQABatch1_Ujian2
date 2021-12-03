@@ -10,13 +10,12 @@ public class No9Main {
 		Scanner in = new Scanner(System.in);
 		int[] nilai;
 		nilai = new int[5];
-		int sum = 0;
+		
 		
 		System.out.println("Masukkan 5 data : ");
 		for (int i = 0; i < 5; i++) {
 			nilai[i] = in.nextInt();
 		
-		System.out.println(sum);
 		
 		}
 	}
