@@ -8,13 +8,17 @@ public class No9Main {
 	public static void main(String[] args) {
 		
 		Scanner in = new Scanner(System.in);
-		int[] arr = new int[5];
-		int i = 0;
+		int[] nilai;
+		nilai = new int[5];
+		int sum = 0;
 		
 		System.out.println("Masukkan 5 data : ");
-		arr[i] = in.nextInt();
+		for (int i = 0; i < 5; i++) {
+			nilai[i] = in.nextInt();
 		
+		System.out.println(sum);
 		
+		}
 	}
 	
 	
