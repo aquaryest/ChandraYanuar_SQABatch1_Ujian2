@@ -1,0 +1,14 @@
+a. Suatu method wajib mengembalikan nilai (return value) ke pemanggilnya adalah Bener
+	karena method harus memiliki hasil methodnya jika dipanggil oleh pemanggilnya
+	
+b. Suatu method wajib meminta parameter dari pemanggilnya adalah Benar
+	karena method harus memiliki data dari pemanggilnya yang akan diproses terlebih dahulu untuk menjalankan method yang akan dikerjakan
+	
+c. Suatu method wajib memiliki parameter return value dengan tipe data yang sama adalah BENAR
+	return value dan parameter harus memiliki tipe data yang sama agar dapat diproses dalam method
+	
+d. Suatu method dapat memiliki lebih dari satu parameter adalah SALAH
+	suatu method hanya dapat memproses data yang memiliki parameter yang sama
+	
+e. Suatu method dapat memiliki lebih dati satu return value adalah SALAH
+	suatu method hanya dapat memberikan 1 return value setiap memproses 1 perintah 
